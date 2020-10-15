@@ -22,7 +22,7 @@ An initially Independent project aimed at producing a bot that will actively rep
 * Numpy
 * Pandas
 * Scikitlearn
-* 
+* ... API
 
 <br />
 
